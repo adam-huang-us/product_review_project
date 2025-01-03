@@ -52,7 +52,8 @@ MySQL
 
 Power BI
 
-![image](https://github.com/Sol2023/product_review_project/assets/92194263/20c7e1a4-d5cb-4844-939a-c279f422fc9f)
+![image](https://github.com/user-attachments/assets/9dc85a1a-dcee-49aa-8aa8-f446924dfa50)
+
 
 
 
